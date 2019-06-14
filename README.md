@@ -5,3 +5,9 @@
 深度学习（Deep Learning），即为DL。
 
 ![avatar](doc/base.png)
+
+![avatar](doc/base_01.png)
+
+![avatar](doc/base_02.png)
+
+![avatar](doc/base_03.png)
